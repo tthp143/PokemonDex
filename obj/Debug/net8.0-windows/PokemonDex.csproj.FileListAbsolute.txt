@@ -1,0 +1,17 @@
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.exe
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.deps.json
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.runtimeconfig.json
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.dll
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.pdb
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.Form1.resources
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.Resource1.resources
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.csproj.GenerateResource.cache
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.GeneratedMSBuildEditorConfig.editorconfig
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.AssemblyInfoInputs.cache
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.AssemblyInfo.cs
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.csproj.CoreCompileInputs.cache
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.dll
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\refint\PokemonDex.dll
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.pdb
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.genruntimeconfig.cache
+D:\book's oop\thanakon-helloworld-oop-lab\PokemonDex\obj\Debug\net8.0-windows\ref\PokemonDex.dll
